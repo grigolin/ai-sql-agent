@@ -10,3 +10,7 @@ O sistema utiliza o framework ReAct (Reason + Act) implementado pelo LangChain.
 * **Orquestração:** LangChain
 * **LLM:** GPT-3.5-turbo via API
 * **Database:** SQLite
+
+### Exemplos
+![Demo 1](showcase/q1.gif)
+![Demo 2](showcase/q2.gif)
